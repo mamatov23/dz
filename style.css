@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: brown ;
+    color: white;
+    padding: 10px;
+}
+
+.container{
+    width: 950px;
+    margin: 0 auto;
+}
+
+nav{
+    align-items: center;
+    padding: 20px;
+}
+
+.nav-logo{
+    font-size: 16px;
+}
